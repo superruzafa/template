@@ -1,0 +1,14 @@
+{
+    "name": "superruzafa/template",
+    "description": "Basic template engine",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfonso Ruzafa",
+            "email": "superruzafa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}
