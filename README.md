@@ -1,7 +1,7 @@
 Template
 ========
 
-A recursive template engine.
+A simple, recursive template engine.
 
 StringTemplate
 --------------

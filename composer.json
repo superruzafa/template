@@ -1,6 +1,6 @@
 {
     "name": "superruzafa/template",
-    "description": "Recursive template engine",
+    "description": "A simple, recursive template engine",
     "keywords": ["template", "engine", "recursive"],
     "type": "library",
     "license": "MIT",
